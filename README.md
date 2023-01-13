@@ -8,7 +8,7 @@ I'm a full stack developer with experience and certifications in java, html, css
 Javascript, HTML, CSS, Java, C#, and most importantly, Scratch.
 
 
-## Other Common Github Profile Sections
+## More About Me
 👩‍💻 I'm currently working on a website for a friends startup buisness.
 
 🧠 I'm currently learning more about CSS and how to make a stylish website.
